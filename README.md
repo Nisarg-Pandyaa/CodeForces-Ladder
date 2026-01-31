@@ -28,7 +28,7 @@ Codeforces-Ladder/ <br>
 ├── Bronze/ <br>
 ├── Silver/ <br>
 ├── Gold/ <br>
-├── Platinum/ <br>
+├── Diamond/ <br>
 └── README.md
 
 
