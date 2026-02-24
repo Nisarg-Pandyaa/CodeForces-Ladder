@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Problem Statement
+## 📌 [Problem Statement (on CodeForces)](https://codeforces.com/problemset/problem/1679/A)
 
 Spring has come, and the management of the **AvtoBus** fleet has ordered to replace winter tires with summer tires on all buses.
 
